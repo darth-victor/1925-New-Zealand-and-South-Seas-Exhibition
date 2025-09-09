@@ -1,2 +1,3 @@
 # 1925-New-Zealand-and-South-Seas-Exhibition
-Research into visualising the 1925 exhibition in Dunedin, New Zealand
+
+Research into visualisation of the 1925 exhibition in Dunedin, New Zealand
